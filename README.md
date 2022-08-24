@@ -89,10 +89,17 @@ Evandro Paulo Folletto
 </br>
 
 # `Imagens`
-### Página Batalha
+### Página Home/Login
 <img src="./src/assets/img/readme/site1.png"/>
 
+### Página Sobre
 <img src="./src/assets/img/readme/site2.png"/>
+
+### Página Cadastro
 <img src="./src/assets/img/readme/site3.png"/>
+
+### Página Feed
 <img src="./src/assets/img/readme/site4.png"/>
+
+### Página Detalhes
 <img src="./src/assets/img/readme/site5.png"/>
