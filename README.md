@@ -54,12 +54,12 @@ Na página de detalhes do post, o mesmo está fixado na parte de cima da página
 - no canto superior direito existe um botão "Logout" para o usuário deslogar da conta atual.
 
 # `Paleta de cores utilizada`
-.color1 { #834841 };
-.color2 { #9a5d56 };
-.color3 { #b2726b };
-.color4 { #c9887f };
-.color5 { #e19d94 };
-.color6 { #c4a6a2 };
+.color1 { #834841 } </br>
+.color2 { #9a5d56 } </br>
+.color3 { #b2726b } </br>
+.color4 { #c9887f } </br>
+.color5 { #e19d94 } </br>
+.color6 { #c4a6a2 }
 
 # `Instalando e rodando o projeto`
 Fazer o clone do projeto:
