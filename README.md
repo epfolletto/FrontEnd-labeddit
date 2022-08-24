@@ -27,9 +27,7 @@ As requisições utilizadas para realizar este projeto foram:
 - **[DEL] Delete Comment Vote:** utilizado para deletar um "like" ou "dislike" de um comentário.
 </br>
 
-Desenvolvido por: Evandro Paulo Folletto
-[Acessar repositório no GitHub](https://github.com/future4code/alves-Evandro-Folletto/pull/36)
-[Acessar documentação da API](https://documenter.getpostman.com/view/9731983/U16eu7nT#intro)
+A documentação da API pode ser acessada [aqui](https://documenter.getpostman.com/view/9731983/U16eu7nT#intro).
 
 # `Modo de usar`
 Ao iniciar a ferramenta, a página onde o usuário será direcionado depende da condição de estar ou não logado. Caso o usuário não esteja logado, ele é redirecionado
