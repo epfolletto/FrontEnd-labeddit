@@ -1,5 +1,5 @@
 # `Projeto`
-Projeto LabEddit
+LabEddit
 
 # `Link`
 [Clique aqui!](https://folletto-labeddit.surge.sh)
@@ -90,6 +90,7 @@ Evandro Paulo Folletto
 </br>
 
 # `Imagens`
+
 ### Página Home/Login
 <img src="./src/assets/img/readme/site1.png"/>
 
