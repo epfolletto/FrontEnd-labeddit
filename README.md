@@ -5,6 +5,7 @@ Projeto LabEddit
 [Clique aqui!](https://folletto-labeddit.surge.sh)
 
 # `Descrição`
+[Projeto desenvolvido na semana 12 do curso Labenu]. </br>
 O Projeto LabEddit foi desenvolvido como uma atividade dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em requisições para a API desenvolvida pela equipe da Labenu, via axios.
 
 Trata-se de uma ferramenta onde usuários cadastrados e logados podem navegar. As funcionalidades são essencialmente duas:
